@@ -1,1 +1,16 @@
-{}
+{
+  "key.category.freecam.freecam": "Freecam",
+  "key.freecam.toggle": "Alternar Freecam",
+  "key.freecam.playerControl": "Controlar Jugador",
+  "key.freecam.tripodReset": "Restablecer Trípode",
+  "key.freecam.configGui": "GUI de configuración",
+  "msg.freecam.enable": "Freecam ha sido habilitado.",
+  "msg.freecam.disable": "Freecam ha sido deshabilitado.",
+  "msg.freecam.restrictedByConfig": "Freecam está restringido en el servidor actual (%s).",
+  "msg.freecam.openTripod": "Abriendo cámara %s",
+  "msg.freecam.closeTripod": "Cerrando cámara %s",
+  "msg.freecam.tripodReset": "Restablecer cámara %s",
+  "text.autoconfig.freecam.title": "Opciones de Freecam",
+  "text.autoconfig.freecam.option.movement": "Opciones de Movimiento",
+  "text.autoconfig.freecam.option.movement.@Tooltip": "Cómo la cámara se mueve."
+}
